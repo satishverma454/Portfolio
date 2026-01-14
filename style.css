@@ -132,15 +132,15 @@ a{
 }
 @keyframes animatetext{
     0%{color:black;
-        font-size:24px;}
+        font-size:15px;}
     40%{color:rgb(245, 152, 38);
-        font-size:5px;}
+        font-size:19px;}
     60%{color:rgb(162, 248, 118);
-        font-size:20px;}
+        font-size:12px;}
     80%{color:aquamarine;
-        font-size:40px;}
+        font-size:19px;}
     100%{color:rgb(237, 137, 172);
-        font-size:20px;}
+        font-size:12px;}
 
 }
 .quote{
@@ -164,4 +164,5 @@ footer{
     scroll-snap-type:x mandatory;
     scroll-behavior:smooth;
 }
+
 
