@@ -143,6 +143,11 @@ a{
         font-size:12px;}
 
 }
+@media (max-width:500px){
+        .welcome{
+            font-size:15px;
+        }
+}
 .quote{
     font-style:italic;
     text-align:justify;
@@ -164,5 +169,6 @@ footer{
     scroll-snap-type:x mandatory;
     scroll-behavior:smooth;
 }
+
 
 
