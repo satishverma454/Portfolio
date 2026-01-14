@@ -143,13 +143,21 @@ a{
         font-size:12px;}
 
 }
-@media (max-width:500px) or (max-width:400px){
+@media (max-width:400px){
         .welcome{
             font-size:15px;
         }
     .html{
-        font-size:12px;
+        font-size:14px;
     }
+}
+@media (max-width:300px){
+        .welcome{
+            font-size:15px;
+            }
+    .html{
+        font-size:12px;
+            }
 }
 .quote{
     font-style:italic;
@@ -172,6 +180,7 @@ footer{
     scroll-snap-type:x mandatory;
     scroll-behavior:smooth;
 }
+
 
 
 
